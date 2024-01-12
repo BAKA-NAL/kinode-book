@@ -17,6 +17,7 @@ The account is free and requires only an email address for registration.
 ## Starting the Nectar node
 
 Start an Nectar node using the binary acquired in the [previous section](./install.md).
+It should be at `./target/release/nectar` or `./target/debug/nectar`
 Locating the binary on your system, run:
 
 ```bash
